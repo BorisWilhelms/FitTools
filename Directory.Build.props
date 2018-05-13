@@ -1,0 +1,17 @@
+<Project>
+    <PropertyGroup>
+        <LangVersion>7.3</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Google.Apis" Version="1.33.1" />
+        <PackageReference Include="Google.Apis.Fitness.v1" Version="1.33.1.995" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="../../includes/client_id.json">
+            <Link>%(Filename)%(Extension)</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+</Project>
