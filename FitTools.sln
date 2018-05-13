@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTools", "FitTools\FitTools.csproj", "{332AC0E1-1D50-4143-B1E0-946B6788DA88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{332AC0E1-1D50-4143-B1E0-946B6788DA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332AC0E1-1D50-4143-B1E0-946B6788DA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332AC0E1-1D50-4143-B1E0-946B6788DA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332AC0E1-1D50-4143-B1E0-946B6788DA88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC06605A-F6AF-4231-91AC-AB2654D466CA}
+	EndGlobalSection
+EndGlobal
